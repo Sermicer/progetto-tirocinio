@@ -1,0 +1,3 @@
+Sviluppo di un'estensione per l'individuazione di elementi in una pagina web
+
+L'estensione ha lo scopo di facilitare il processo di testing sfruttando test d'uso automatizzati
